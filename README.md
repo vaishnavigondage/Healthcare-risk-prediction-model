@@ -2,7 +2,7 @@
 
 ## 📌 Overview
 
-The Multiple Disease Prediction System is a machine learning-based application that predicts the likelihood of three major diseases:
+The Healthcare risk prediction model is a machine learning-based application that predicts the likelihood of three major diseases:
 
 * Heart Disease
 * Diabetes
@@ -94,10 +94,10 @@ The system uses trained classification models on healthcare datasets and provide
 
 ```bash
 # Clone the repository
-git clone https://github.com/vaishnavigondage/Multiple-_disease_prediction_system
+git clone https://github.com/vaishnavigondage/Healthcare-risk-prediction-model.git
 
 # Navigate to project folder
-cd Multiple-_disease_prediction_system
+cd Healthcare-risk-prediction-model
 
 # Install dependencies
 pip install -r requirements.txt
