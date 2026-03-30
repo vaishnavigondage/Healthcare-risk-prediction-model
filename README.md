@@ -1,4 +1,4 @@
-# 🩺 Multiple Disease Prediction System
+# 🩺 Healthcare-risk-prediction-model
 
 ## 📌 Overview
 
